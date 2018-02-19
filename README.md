@@ -1,9 +1,6 @@
 # Hello Android
 HelloAndroid is a Udacity Project for Google India Scholership.
-The APP contain the basic information like Address,Phone and Website of Udacity.
-
-## Getting Started
-
+The APP contain the basic information like Address,Phone and Website of Udacity. 
 
 ## Layout Structure
   * ImageView
@@ -21,8 +18,3 @@ The APP contain the basic information like Address,Phone and Website of Udacity.
       * ImageView
       * TextView
      
-
-
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-  |  ![Blue Print](https://raw.githubusercontent.com/mangoliprasanna/HelloAndroid/master/bluePrint.png)
