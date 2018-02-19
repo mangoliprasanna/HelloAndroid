@@ -20,3 +20,9 @@ The APP contain the basic information like Address,Phone and Website of Udacity.
     * LinearLayout
       * ImageView
       * TextView
+     
+
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+  |  ![Blue Print](https://raw.githubusercontent.com/mangoliprasanna/HelloAndroid/master/bluePrint.png)
