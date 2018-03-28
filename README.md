@@ -18,3 +18,5 @@ The APP contain the basic information like Address,Phone and Website of Udacity.
       * ImageView
       * TextView
      
+## Screenshots
+  ![alt text](https://github.com/mangoliprasanna/HelloAndroid/blob/master/screenShot.jpeg "App Screenshot")
